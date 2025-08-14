@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\ASimulatorForAveva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\modbus\\modbusprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\modbus\\modbusprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\utils\\restartmbtcpdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\utils\\restartmbtcpdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\processdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\processdescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|C:\\Repositorios\\ASimulatorForAveva\\asimulatorforaveva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\utils\\hardcodedprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\utils\\hardcodedprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\utils\\getmixerstatsastext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\utils\\getmixerstatsastext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\totalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\totalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\levelsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\levelsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\temperaturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\mixer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\mixer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\variables\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\variables\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\valve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\valve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|c:\\repositorios\\asimulatorforaveva\\asimulatorforaveva\\models\\simulation\\heatexchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C205DE-096D-4D6B-963E-AC84C775D554}|ASimulatorForAveva\\ASimulatorForAveva.csproj|solutionrelative:asimulatorforaveva\\models\\simulation\\heatexchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\.vsdbgsrc\\dff157576822cb89ab1754361052d4aa9b4ef77dda01f159e5e6b591ae069560\\Socket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcessDescription.cs [Design]",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\ProcessDescription.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\ProcessDescription.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\ProcessDescription.cs [Design]",
+              "RelativeToolTip": "ASimulatorForAveva\\ProcessDescription.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:49:12.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestartMBTCPDriver.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Utils\\RestartMBTCPDriver.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Utils\\RestartMBTCPDriver.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Utils\\RestartMBTCPDriver.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Utils\\RestartMBTCPDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:45:01.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModbusProcess.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Modbus\\ModbusProcess.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Modbus\\ModbusProcess.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Modbus\\ModbusProcess.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Modbus\\ModbusProcess.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAADwvzIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:24:10.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\MainForm.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\MainForm.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\MainForm.cs [Design]",
+              "RelativeToolTip": "ASimulatorForAveva\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T13:22:50.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\MainForm.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\MainForm.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\MainForm.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\MainForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T13:46:34.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Program.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Program.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T13:46:38.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Totalizer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Totalizer.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\Totalizer.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Totalizer.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\Totalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:39:57.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetMixerStatsAsText.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Utils\\GetMixerStatsAsText.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Utils\\GetMixerStatsAsText.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Utils\\GetMixerStatsAsText.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Utils\\GetMixerStatsAsText.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:48:26.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HardcodedProcess.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Utils\\HardcodedProcess.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Utils\\HardcodedProcess.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Utils\\HardcodedProcess.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Utils\\HardcodedProcess.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:18:44.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelSensor.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\LevelSensor.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\LevelSensor.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\LevelSensor.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\LevelSensor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:39:03.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TemperatureSensor.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\TemperatureSensor.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\TemperatureSensor.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\TemperatureSensor.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\TemperatureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:39:32.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Variables\\Globals.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Variables\\Globals.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Variables\\Globals.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Variables\\Globals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:56:04.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\MainForm.Designer.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\MainForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T07:17:41.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mixer.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Mixer.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\Mixer.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Mixer.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\Mixer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:36:16.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Valve.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Valve.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\Valve.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Valve.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\Valve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:38:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pump.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Pump.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\Pump.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\Pump.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\Pump.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:38:02.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HeatExchanger.cs",
+              "DocumentMoniker": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\HeatExchanger.cs",
+              "RelativeDocumentMoniker": "ASimulatorForAveva\\Models\\Simulation\\HeatExchanger.cs",
+              "ToolTip": "C:\\Repositorios\\ASimulatorForAveva\\ASimulatorForAveva\\Models\\Simulation\\HeatExchanger.cs",
+              "RelativeToolTip": "ASimulatorForAveva\\Models\\Simulation\\HeatExchanger.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vx4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:40:19.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Socket.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\.vsdbgsrc\\dff157576822cb89ab1754361052d4aa9b4ef77dda01f159e5e6b591ae069560\\Socket.cs",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Administrator\\AppData\\Local\\Temp\\2\\.vsdbgsrc\\dff157576822cb89ab1754361052d4aa9b4ef77dda01f159e5e6b591ae069560\\Socket.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\2\\.vsdbgsrc\\dff157576822cb89ab1754361052d4aa9b4ef77dda01f159e5e6b591ae069560\\Socket.cs",
+              "RelativeToolTip": "..\\..\\Users\\Administrator\\AppData\\Local\\Temp\\2\\.vsdbgsrc\\dff157576822cb89ab1754361052d4aa9b4ef77dda01f159e5e6b591ae069560\\Socket.cs",
+              "ViewState": "AgIAAOEDAAAAAAAAAAAhwFoEAAAeAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T03:05:13.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

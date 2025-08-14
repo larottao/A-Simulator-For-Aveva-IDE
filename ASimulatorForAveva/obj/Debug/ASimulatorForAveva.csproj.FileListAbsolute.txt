@@ -1,0 +1,12 @@
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.csproj.AssemblyReference.cache
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.Properties.Resources.resources
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.csproj.GenerateResource.cache
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.csproj.CoreCompileInputs.cache
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\bin\Debug\ASimulatorForAveva.exe.config
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\bin\Debug\ASimulatorForAveva.exe
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\bin\Debug\ASimulatorForAveva.pdb
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.exe
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.pdb
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.exe.config
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.MainForm.resources
+C:\Repositorios\ASimulatorForAveva\ASimulatorForAveva\obj\Debug\ASimulatorForAveva.ProcessDescription.resources
